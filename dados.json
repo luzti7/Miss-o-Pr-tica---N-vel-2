@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Bolinho de queijo",
+        "ingredientes": [
+            "250 gramas de mussarela ralada",
+            "1 ovo",
+            "4 colheres de sopa de amido de milho",
+            "óleo para fritar"
+        ],
+        "preparo": "Reúna todos os ingredientes, Coloque todos os ingredientes em um recipiente e misture bem até formar uma massa modelável, Pegue pequenas porções da massa, molde em formato de bolinha e disponha em uma forma, Leve para o congelador por 30 minutos,Frite as bolinhas em óleo bem quente e deixe secar no papel toalha,Agora é só servir. Bom apetite!",
+        "imagem": "https://static.itdg.com.br/images/1200-630/3622fdfedd10651548512591c108b031/284443-original.jpg",
+        "alt":"Imagem de um arroz com couve-flor."
+    },
+    {
+        "nome": "Bauru de forno com pão",
+        "ingredientes": [
+            "4 colheres de sopa de maionese",
+            "2 pacotes de pão de forma",
+            "Molho de tomate a gosto",
+            "400 g de presunto",
+            "450 g de muçarela",
+            "Tomate cortado em rodelas",
+            "Orégano a gosto"
+            
+            
+
+        ],
+        "preparo": "Reúna todos os ingredientes, Pegue uma forma e unte-a com maionese, Na forma untada, acrescente uma camada de pão de forma, de modo a forrar todo o fundo do recipiente, Passe molho de tomate sobre a camada de pão de forma, Por último, faça uma camada de presunto, outra de mussarela, coloque as rodelas de tomate e salpique orégano a gosto, Repita o processo mais uma vez e deixe a última camada com presunto, muçarela, tomate e orégano, Leve para assar, em forno a 180º graus, até a muçarela derreter.",
+        "imagem": "https://www.receiteria.com.br/wp-content/uploads/bauru-de-forno-com-pao-de-forma-00-1.jpg",
+        "alt": "Imagem de um bolo de café com cobertura."
+    },
+    {
+        "nome": "Mousse de chocolate com água",
+        "ingredientes": [
+            "300 gramas de chocolate meio amargo picado",
+            "150 mililitros de água quente"
+          
+        ],
+        "preparo": "Em uma tigela com 300 gramas de chocolate meio amargo picado, adicione 150 mililitros de água quente, com um batedor de arame, mexa até derreter o chocolate, Coloque a tigela em cima de outro tigela com gelo e mexa bem até que fique com textura de mousse, finalize com flor de sal e sirva.",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/369562012750bd46ceaeef5d59a23229.jpg",
+        "alt": "Imagem de uma coxinha de brigadeiro pela metade com um morango dentro."
+    }   
+]
